@@ -1,3 +1,9 @@
+/*
+Objective: To return the number of 1's in the binary equivalent of a number given by user.
+Author: Devadath R Varma
+*/
+
+
 #include <stdio.h>
 
 int countOne(int num){
